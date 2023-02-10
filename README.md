@@ -11,11 +11,11 @@ Aplicando conceitos como: meta tags, estruturação de HTML, tipos de aplicaçã
 
   Tags de informação:
   
-  <!DOCTYPE> / <html> / <head> / <body> / <meta> / <title> / <link> / <header> / <nav> / <main> / <footer> / <div> / <span>
+  <!DOCTYPE> - <html> - <head> - <body> - <meta> - <title> - <link> - <header> - <nav> - <main> - <footer> - <div> - <span>
 
   Tags de conteúdo:
 
-  <h1> / <h2> / <h3> / <p> / <strong> / <em> / <img> / <ul> / <ol> / <li> / <a> / <br>
+  <h1> - <h2> - <h3> - <p> - <strong> - <em> - <img> - <ul> - <ol> - <li> - <a> - <br>
 
 ### CSS:
 
