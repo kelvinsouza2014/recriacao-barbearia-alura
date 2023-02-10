@@ -1,0 +1,111 @@
+/*PÁGINA DE PRODUTOS - BARBEARIA ALURA*/
+
+* {
+    box-sizing: border-box;
+}
+
+/*CABEÇALHO*/
+
+    /*CAIXA*/
+
+header {
+    background: #bbbbbb;
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+nav ul {
+    position: absolute;
+    top: 120px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    font-size: 22px;
+    text-transform:uppercase;
+    color:#000000;
+    font-weight: bold;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+/*CONTEÚDO PRINCIPAL*/
+
+    /*PRODUTOS*/
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.produtos ul {
+    text-align: center;
+}
+
+.produtos li {
+    display: inline-block;
+    width: 30%;
+    margin: 55px 1.5%;
+    padding: 30px 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+.produtos li:hover {
+    border-color: #C78C19;
+}
+
+.produtos li:active {
+    border-color: #088C19
+}
+
+.produtos li:hover .produtos-titulo {
+	font-size: 34px;
+}
+
+.produtos-titulo {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produtos-descricao {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.produtos-preco {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/*RODAPÉ*/
+
+footer {
+    background: url(imagens/bg.jpg);
+}
+
+.rodape {
+    text-align: center;
+    padding: 40px 0 20px 0;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
