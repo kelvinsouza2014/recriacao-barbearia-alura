@@ -7,68 +7,6 @@ Recriação do projeto total do curso de HTML5 e CSS3 da Alura, utilizando mais 
 
 Aplicando conceitos como: meta tags, estruturação de HTML, tipos de aplicação do CSS, sistemas de cores do CSS, adição de elementos externos (HTML/CSS), ferramenta do desenvolvedor (Developer Tools), sistemas de listas do HTML e formatação das pré-configurações do browser.
 
-### HTML:
-
-Tags de informação:
-  
-- <!DOCTYPE>
-- <html>
-- <head>
-- <body>
-- <meta>
-- <title>
-- <link>
-- <header>
-- <nav>
-- <main>
-- <footer>
-- <div>
-- <span>
-
-Tags de conteúdo:
-
-- <h1>
-- <h2>
-- <h3>
-- <p>
-- <strong>
-- <em>
-- <img>
-- <ul>
-- <ol>
-- <li>
-- <a>
-- <br>
-
-### CSS:
-
-  Propriedades:
-  - style
-  - text-align
-  - font-size
-  - backround
-  - color
-  - height
-  - width
-  - border
-  - padding
-  - margin
-  - display
-  - vertical-align
-  - text-transform
-  - font-weight
-  - text-decoration
-  - position
-  - line-height
-  - top
-  - middle
-  - bottom
-  - left
-  - right
-  - box-sizing
-  - border-radius
-  - hover
-  - active
   
 ### Tecnologias utilizadas
     
