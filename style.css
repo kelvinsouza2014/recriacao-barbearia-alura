@@ -6,6 +6,26 @@
     padding: 10px 0px 10px 20px;
 }
 
+.menu ul {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    margin-right: 30px;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu a{
+    font-size: 18px;
+    text-transform:uppercase;
+    color:#000000;
+    font-weight: bold;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
 .banner-100 {
     width: 100%;
 }
