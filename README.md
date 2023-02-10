@@ -3,7 +3,7 @@
 
 ### Descrição
 
-Recriação do projeto total do curso de HTML5 e CSS3 da Alura, utilizando mais recursos como um todo de maneira autoral e me desafiando a colocar em prática todo conteúdo teórico absorvido dutante as aulas.
+Recriação total do projeto do curso de HTML5 e CSS3 da Alura, utilizando mais recursos como um todo de maneira autoral e me desafiando a colocar em prática todo conteúdo teórico absorvido dutante as aulas.
 
 Aplicando conceitos como: meta tags, estruturação de HTML, tipos de aplicação do CSS, sistemas de cores do CSS, adição de elementos externos (HTML / CSS), ferramenta do desenvolvedor (Developer Tools), sistemas de listas do HTML e formatação das pré-configurações do browser.
 
